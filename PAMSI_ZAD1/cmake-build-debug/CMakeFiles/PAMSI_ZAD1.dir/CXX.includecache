@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Komputer/CLionProjects/PAMSI_ZAD1/kolejka_prio.cpp
+kolejka_prio.h
+C:/Users/Komputer/CLionProjects/PAMSI_ZAD1/kolejka_prio.h
+
+C:/Users/Komputer/CLionProjects/PAMSI_ZAD1/kolejka_prio.h
+iostream
+-
+pakiet.h
+C:/Users/Komputer/CLionProjects/PAMSI_ZAD1/pakiet.h
+
+C:/Users/Komputer/CLionProjects/PAMSI_ZAD1/main.cpp
+iostream
+-
+string
+-
+pakiet.h
+C:/Users/Komputer/CLionProjects/PAMSI_ZAD1/pakiet.h
+kolejka_prio.h
+C:/Users/Komputer/CLionProjects/PAMSI_ZAD1/kolejka_prio.h
+
+C:/Users/Komputer/CLionProjects/PAMSI_ZAD1/pakiet.h
+iostream
+-
+string
+-
+
